@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "abc",
+      "branch": "cse"
+    },
+    {
+      "id": "2",
+      "name": "pqr",
+      "branch": "cse"
+    },
+    {
+      "id": "3",
+      "name": "klm",
+      "branch": "it"
+    },
+    {
+      "id": "4",
+      "name": "xyz",
+      "branch": "ece"
+    }
+  ]
+}
